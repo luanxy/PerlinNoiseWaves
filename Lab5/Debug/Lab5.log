@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\vec3.h(185): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(46): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(83): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(84): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(87): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(89): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(92): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(152): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(154): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\main.cpp(155): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\vec3.h(181): warning C4172: 返回局部变量或临时变量的地址
+c:\users\vsgin\onedrive\documents\visual studio 2015\projects\lab5\lab5\vec3.h(185): warning C4172: 返回局部变量或临时变量的地址
+  Lab5.vcxproj -> C:\Users\vsgin\OneDrive\Documents\Visual Studio 2015\Projects\Lab5\Debug\Lab5.exe
+  Lab5.vcxproj -> C:\Users\vsgin\OneDrive\Documents\Visual Studio 2015\Projects\Lab5\Debug\Lab5.pdb (Full PDB)
